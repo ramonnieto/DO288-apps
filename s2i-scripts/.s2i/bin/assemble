@@ -16,7 +16,7 @@ cp -Rf /tmp/src/*.html ./
 DATE=`date "+%b %d, %Y @ %H:%M %p"`
 
 echo "---> Creating info page"
-echo "Page built on $DATE no hace na" >> ./info.html
+echo "Page built on $DATE si, si que hace xD " >> ./info.html
 echo "\n Verificado por mi" >> ./pepe.html
 #echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info.html
 
