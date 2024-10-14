@@ -58,9 +58,9 @@
   ],
   "dependencies": {
     "command-line-args": "^5.1.1",
-    "cookie-parser": "^1.4.5",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "express-async-errors": "^3.1.1",
     "jsonfile": "^6.1.0",
     "module-alias": "^2.2.2",
